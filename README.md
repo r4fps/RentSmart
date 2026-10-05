@@ -18,7 +18,7 @@ Trabalho académico desenvolvido para a gestão e cálculo de orçamentos de loc
 ## 📂 Estrutura do Repositório
 
 - `main.py:` Código-fonte principal do sistema.
-- `TRABALHO_2.pdf`: Relatório técnico com a fundamentação teórica, diagramas UML e fluxogramas.
+- `relatorio_tecnico.pdf`: Relatório técnico com a fundamentação teórica, diagramas UML e fluxogramas.
 - `projecao_aluguel.csv`: Ficheiro gerado automaticamente com a projeção de 12 meses.
 
 ## 🏁 Como Executar o Projeto
@@ -35,4 +35,4 @@ python main.py
 ## 🎥 Vídeo de Apresentação (Pitch)
 
 Pode assistir à demonstração e explicação do projeto no link abaixo:
-- [Assistir ao Pitch do RentSmart no YouTube](https://seu-link-aqui)
+- [Assistir ao Pitch do RentSmart no YouTube](https://youtu.be/KgjsaE6-2Gk)
